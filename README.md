@@ -2,7 +2,8 @@
 
 # Overview
 
-This repository contains scripts that implement an explainable artificial intelligence (AI) framework for predicting adverse outcomes—specifically, incomplete recovery or death—in patients with acute poisoning, while performing temporal external validation and providing transparent, clinician-oriented explanations.
+This repository contains Jupyter notebooks that implement an explainable artificial intelligence (AI) framework for predicting adverse outcomes—specifically, incomplete recovery or death—in patients with acute poisoning, while performing temporal external validation and providing transparent, clinician-oriented explanations.
+
 
 Notebook     Description
 
