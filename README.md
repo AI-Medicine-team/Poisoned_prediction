@@ -1,4 +1,4 @@
-# Prediction of adverse outcomes in patients with poisoning
+# Prediction of adverse outcomes for poisoning patients
 Apply interpretable artificial intelligence methods to predict the adverse outcomes of acute poisoning.
 
 ## Overview
