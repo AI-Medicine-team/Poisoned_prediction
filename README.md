@@ -1,4 +1,5 @@
-# Explainable Artificial Intelligence for Predicting Adverse Outcomes in Acute Poisoning: Development and External Validation
+# Prediction of adverse outcomes in patients with poisoning
+Apply interpretable artificial intelligence methods to predict the adverse outcomes of acute poisoning
 
 # Overview
 
