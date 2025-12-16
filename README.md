@@ -1,5 +1,5 @@
 # Prediction of adverse outcomes in patients with poisoning
-Apply interpretable artificial intelligence methods to predict the adverse outcomes of acute poisoning
+Apply interpretable artificial intelligence methods to predict the adverse outcomes of acute poisoning.
 
 # Overview
 This repository contains Jupyter notebooks that implement an explainable artificial intelligence (AI) framework for predicting adverse outcomes—specifically, incomplete recovery or death—in patients with acute poisoning, while performing temporal external validation and providing transparent, clinician-oriented explanations.
